@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="images/heart_rate.gif" height="150px" alt="Heart Rate GIF"/>
+  <img src="images/heart_rate.gif" height="150px" width="110px" alt="Heart Rate GIF"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/banner.png" height="150px" alt="banner"/>
+  <img src="images/banner.png" height="150px" width="500px" alt="banner"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="images/location_tracking.gif" height="150px" alt="Location Tracking GIF" style=""/>
+  <img src="images/location_tracking.gif" height="150px" width="150px" alt="Location Tracking GIF" style=""/>
 </div>
 
 # IMMS - Implanted Microchips Management System
